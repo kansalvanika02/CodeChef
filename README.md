@@ -1,1 +1,1 @@
-My codes for CodeChef April Cookoff 2021 for Div 3
+My codes for CodeChef problems Division 3
